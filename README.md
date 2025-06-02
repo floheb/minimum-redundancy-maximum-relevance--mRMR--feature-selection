@@ -2,6 +2,11 @@
 
 A Python implementation of minimum Redundancy Maximum Relevance (mRMR) feature selection for multiple targets.
 
+## Based on the idea of the following paper :
+
+Hanchuan Peng, Fuhui Long and C. Ding, "Feature selection based on mutual information criteria of max-dependency, max-relevance, and min-redundancy," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 27, no. 8, pp. 1226-1238, Aug. 2005, doi: 10.1109/TPAMI.2005.159.
+keywords: {Mutual information;Redundancy;Pattern classification;Diversity reception;Costs;Support vector machines;Support vector machine classification;Performance analysis;Algorithm design and analysis;Cancer;Index Terms- Feature selection;mutual information;minimal redundancy;maximal relevance;maximal dependency;classification.},
+
 ## Installation
 
 Create a virtual environment and install dependencies:
